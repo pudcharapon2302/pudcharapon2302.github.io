@@ -1,8 +1,8 @@
-![download banner](./banner.jpg).
+![download banner](./banner.jpg)
 
 
 # สมุดบันทึก
 
-สำหรับวิชา OOP [OOP](https://pudcharapon.github.io).
+สำหรับวิชา OOP [OOP](https://pudcharapon.github.io)
 
 พัชรพล ยินดีรัมย์
