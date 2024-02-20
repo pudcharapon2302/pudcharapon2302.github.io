@@ -16,3 +16,5 @@ if text:
     #text
     st.write(f'กำลังโหลด.... "{text}"')
     b = st.button('จะไปต่อหรือ...')
+    
+    #https://github.com/Palmmy2547/Palmmy2547.github.io
