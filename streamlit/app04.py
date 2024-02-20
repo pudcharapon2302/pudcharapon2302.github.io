@@ -1,3 +1,4 @@
+import torch
 import streamlit as st
 from diffusers import DiffusionPipeline as dp
 from PTL import Image
